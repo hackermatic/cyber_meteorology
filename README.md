@@ -6,4 +6,4 @@ Cloud to Lake and back again... An unclassified DoD briefing on the Cyber Water 
 
 Last updated [April 1st, 2021](https://en.wikipedia.org/wiki/April_Fools'_Day).
 
-License: [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE.md)
+License: Creative Commons Attribution-ShareAlike 4.0 International ([explainer](https://creativecommons.org/licenses/by-sa/4.0/)) ([full license text](LICENSE.md))
